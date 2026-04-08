@@ -8,7 +8,7 @@ Gemini Desktop App is a simple, lightweight wrapper for the official [Gemini](ht
 
 ## Installation
 
-Download the latest release from the [Releases page](https://github.com/YOUR_USERNAME/Gemini-Desktop-App/releases) and run the `.exe` file.
+Download the latest release from the [Releases page](https://github.com/JGastager/Gemini-Desktop-App/releases) and run the `.exe` file.
 
 ## Usage
 
