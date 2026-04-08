@@ -13,7 +13,7 @@ Download the latest release from the [Releases page](https://github.com/YOUR_USE
 ## Usage
 
 - Open the app from your desktop or start menu.
-- Press **Alt + Space** to quickly show/hide the window and focus the input area.
+- Press **Alt + Space** shortcut to quickly show/hide the Gemini.
 - Interact with Gemini as you would in a browser.
 
 ## Notes
