@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Electron build outputs
+/dist/
+/out/
+/release/
+/build/
+/*.exe
+/*.zip
+/*.dmg
+/*.AppImage
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Ignore compiled files
+*.tsbuildinfo
+*.js.map
+*.d.ts
+
+# Ignore cache
+.cache/
+.temp/
