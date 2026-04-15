@@ -13,7 +13,7 @@ Download the latest release from the [Releases page](https://github.com/JGastage
 ## Usage
 
 - Open the app from your desktop or start menu.
-- Press **Alt + Space** shortcut to quickly show/hide the Gemini.
+- Press **Win + Space** shortcut to quickly show/hide the Gemini.
 - Interact with Gemini as you would in a browser.
 
 ## Notes

@@ -17,6 +17,7 @@
   "build": {
     "appId": "gemini.desktop.app",
     "productName": "Gemini Desktop App",
+    "npmRebuild": false,
     "directories": {
       "buildResources": "assets",
       "output": "dist"
@@ -33,5 +34,8 @@
     "linux": {
       "icon": "assets/icon.png"
     }
+  },
+  "dependencies": {
+    "uiohook-napi": "^1.5.5"
   }
 }
